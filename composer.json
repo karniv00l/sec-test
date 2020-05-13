@@ -1,5 +1,7 @@
 {
     "name": "karniv00l/sec-test",
+    "description": "Sec scan test",
+    "license": "MIT",
     "authors": [
         {
             "name": "Piotr Rogowski",
