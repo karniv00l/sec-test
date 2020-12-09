@@ -10,7 +10,7 @@
     ],
     "require": {
         "fuel/core": "1.8.0",
-        "aws/aws-sdk-php": "3.2.0",
+        "aws/aws-sdk-php": "3.168.0",
         "symfony/http-kernel": "2.3.0"
     }
 }
